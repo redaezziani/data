@@ -1,0 +1,74 @@
+[
+    {
+        "userid": 1,
+        "username": "John",
+        "userprofileimg": "https://images.pexels.com/photos/2915216/pexels-photo-2915216.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "userskills": ["Python", "JavaScript", "HTML", "CSS"],
+        "userdegree": 10,
+        "aboutuser": "I am a skilled programmer with expertise in web development."
+    },
+    {
+        "userid": 2,
+        "username": "Alice",
+        "userprofileimg": "https://s3-us-east-2.amazonaws.com/maryville/wp-content/uploads/2023/02/15070620/software-developer.jpg",
+        "userskills": ["Java", "C++", "SQL", "Data Structures"],
+        "userdegree": 10,
+        "aboutuser": "I have a strong background in software engineering and database management."
+    },
+    {
+        "userid": 3,
+        "username": "Emma",
+        "userprofileimg": "https://t3.ftcdn.net/jpg/04/98/91/96/360_F_498919631_Me4XD0pVj0tX109wnyH7FIo6FHTb5J0E.jpg",
+        "userskills": ["Ruby", "Rails", "JavaScript", "React"],
+        "userdegree": 10,
+        "aboutuser": "I specialize in full-stack web development using Ruby on Rails."
+    },
+    {
+        "userid": 4,
+        "username": "Michael",
+        "userprofileimg": "https://media.istockphoto.com/id/1372353160/photo/young-asian-programmer-working-at-office.jpg?b=1&s=170667a&w=0&k=20&c=i4htH_rE3xUwIeqIpQ2JVZpZBUCWe5EltXXdPDODc2E=",
+        "userskills": ["C#", ".NET", "ASP.NET", "MVC"],
+        "userdegree": 10,
+        "aboutuser": "I have extensive experience in building enterprise-level applications using .NET technologies."
+    },
+    {
+        "userid": 5,
+        "username": "Sophia",
+        "userprofileimg": "https://images.pexels.com/photos/1021693/pexels-photo-1021693.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "userskills": ["PHP", "Laravel", "MySQL", "JavaScript"],
+        "userdegree": 10,
+        "aboutuser": "I am a PHP developer skilled in building scalable web applications using Laravel framework."
+    },
+    {
+        "userid": 6,
+        "username": "Daniel",
+        "userprofileimg": "https://images.pexels.com/photos/14344801/pexels-photo-14344801.jpeg?cs=srgb&dl=pexels-c%C3%A9line-14344801.jpg&fm=jpg",
+        "userskills": ["Python", "Data Science", "Machine Learning"],
+        "userdegree": 10,
+        "aboutuser": "I have a strong background in data science and machine learning with proficiency in Python."
+    },
+    {
+        "userid": 7,
+        "username": "Olivia",
+        "userprofileimg": "https://images.pexels.com/photos/458766/pexels-photo-458766.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "userskills": ["JavaScript", "React", "Node.js", "MongoDB"],
+        "userdegree": 10,
+        "aboutuser": "I specialize in building interactive web applications using the MERN stack."
+    },
+    {
+        "userid": 8,
+        "username": "David",
+        "userprofileimg": "https://images.pexels.com/photos/1656684/pexels-photo-1656684.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "userskills": ["Java", "Spring Boot", "Hibernate", "MySQL"],
+        "userdegree": 10,
+        "aboutuser": "I am a Java developer with expertise in building enterprise applications using Spring framework."
+    },
+    {
+        "userid": 9,
+        "username": "Isabella",
+        "userprofileimg": "https://images.pexels.com/photos/4348783/pexels-photo-4348783.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "userskills": ["Python", "Django", "JavaScript", "Vue.js"],
+        "userdegree": 10,
+        "aboutuser": "I specialize in full-stack web development using Python and Django framework."
+    }
+]
